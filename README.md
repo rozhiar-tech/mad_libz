@@ -1,4 +1,4 @@
-# Re:Coded Mad Libz
+# Rozhiar's Mad Libz
 
 ## What is Mad Libs?
 
